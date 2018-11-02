@@ -180,20 +180,20 @@ Arrow functions have changed how most JavaScript code looks (and works).
 
 Visually, it’s a simple and welcome change, from:
 
-const foo = function foo() {
+`const foo = function foo() {
   //...
 }
 to
 
 const foo = () => {
   //...
-}
+}`
 And if the function body is a one-liner, just:
 
-const foo = () => doSomething()
+`const foo = () => doSomething()`
 Also, if you have a single parameter, you could write:
 
-const foo = param => doSomething(param)
+`const foo = param => doSomething(param)`
 This is not a breaking change, as regular functions will continue to work just as before.
 
 A new this scope
