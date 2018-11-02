@@ -182,10 +182,10 @@ Visually, it’s a simple and welcome change, from:
 
 `const foo = function foo() {
   //...
-}
+}`
 to
 
-const foo = () => {
+`const foo = () => {
   //...
 }`
 And if the function body is a one-liner, just:
