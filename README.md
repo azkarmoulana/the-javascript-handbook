@@ -11,11 +11,11 @@ Learn all you need to know about JavaScript!
 Note: you can get a PDF, ePub, or Mobi version of this handbook for easier reference, or for reading on your Kindle or tablet.
 
 **Table of Contents**  
-1.ECMAscript
-2.ES6
-3.ES2016
-4.ES2017
-5.ES2018
+1. ECMAscript
+2. ES6
+3. ES2016
+4. ES2017
+5. ES2018
 6.Coding Style
 7.Lexical Structure
 8.Variables
