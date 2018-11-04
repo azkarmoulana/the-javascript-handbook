@@ -2,6 +2,7 @@
 💪The Complete JavaScript Handbook 💕✔
 ***
 JavaScript is one of the most popular programming languages in the world, and is now widely used also outside of the browser. The rise of Node.js in the last few years unlocked back-end development - once the domain of Java, Ruby, Python, PHP, and more traditional server-side languages.
+***
 
 The JavaScript Handbook follows the 80/20 rule: learn 80% of JavaScript in 20% of the time.
 
@@ -9,17 +10,17 @@ Learn all you need to know about JavaScript!
 
 Note: you can get a PDF, ePub, or Mobi version of this handbook for easier reference, or for reading on your Kindle or tablet.
 
-Table of Contents
-ECMAscript
-ES6
-ES2016
-ES2017
-ES2018
-Coding Style
-Lexical Structure
-Variables
-Types
-Expressions
+**Table of Contents**  
+1.ECMAscript
+2.ES6
+3.ES2016
+4.ES2017
+5.ES2018
+6.Coding Style
+7.Lexical Structure
+8.Variables
+9.Types
+10.Expressions
 Prototypal Inheritance
 Classes
 Exceptions
