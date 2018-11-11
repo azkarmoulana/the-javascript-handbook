@@ -21,10 +21,10 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 8.Variables
 9.Types
 10.Expressions
-Prototypal Inheritance
-Classes
-Exceptions
-Semicolons
+11.Prototypal Inheritance
+12.Classes
+13.Exceptions
+14.Semicolons
 Quotes
 Template Literals
 Functions
