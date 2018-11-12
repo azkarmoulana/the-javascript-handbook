@@ -25,12 +25,12 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 12.Classes
 13.Exceptions
 14.Semicolons
-Quotes
-Template Literals
-Functions
-Arrow Functions
-Closures
-Arrays
+15.Quotes
+16.Template Literals
+17.Functions
+18.Arrow Functions
+19.Closures
+20.Arrays
 Loops
 Events
 The Event Loop
