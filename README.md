@@ -31,7 +31,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 18.Arrow Functions
 19.Closures
 20.Arrays
-Loops
+21.Loops
 Events
 The Event Loop
 Asynchronous Programming and Callbacks
