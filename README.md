@@ -32,7 +32,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 19.Closures
 20.Arrays
 21.Loops
-Events
+22.Events
 The Event Loop
 Asynchronous Programming and Callbacks
 Promises
