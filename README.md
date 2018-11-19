@@ -16,23 +16,23 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 3. ES2016
 4. ES2017
 5. ES2018
-6.Coding Style
-7.Lexical Structure
-8.Variables
-9.Types
-10.Expressions
-11.Prototypal Inheritance
-12.Classes
-13.Exceptions
-14.Semicolons
-15.Quotes
-16.Template Literals
-17.Functions
-18.Arrow Functions
-19.Closures
-20.Arrays
-21.Loops
-22.Events
+6. Coding Style
+7. Lexical Structure
+8. Variables
+9. Types
+10. Expressions
+11. Prototypal Inheritance
+12. Classes
+13. Exceptions
+14. Semicolons
+15. Quotes
+16. Template Literals
+17. Functions
+18. Arrow Functions
+19. Closures
+20. Arrays
+21. Loops
+22. Events
 The Event Loop
 Asynchronous Programming and Callbacks
 Promises
