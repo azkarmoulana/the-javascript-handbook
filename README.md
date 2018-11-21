@@ -33,7 +33,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 20. Arrays
 21. Loops
 22. Events
-The Event Loop
+23. The Event Loop
 Asynchronous Programming and Callbacks
 Promises
 Async and Await
