@@ -36,7 +36,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 23. The Event Loop
 24. Asynchronous Programming and Callbacks
 25. Promises
-Async and Await
+26. Async and Await
 Loops and Scope
 Timers
 This
