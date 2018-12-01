@@ -37,7 +37,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 24. Asynchronous Programming and Callbacks
 25. Promises
 26. Async and Await
-Loops and Scope
+27. Loops and Scope
 Timers
 This
 Strict Mode
