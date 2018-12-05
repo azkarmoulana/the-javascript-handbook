@@ -38,7 +38,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 25. Promises
 26. Async and Await
 27. Loops and Scope
-Timers
+28. Timers
 This
 Strict Mode
 Immediately-Invoked Function Expressions (IFFE’s)
