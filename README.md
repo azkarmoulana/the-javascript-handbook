@@ -39,7 +39,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 26. Async and Await
 27. Loops and Scope
 28. Timers
-This
+29. This
 Strict Mode
 Immediately-Invoked Function Expressions (IFFE’s)
 Math Operators
