@@ -40,7 +40,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 27. Loops and Scope
 28. Timers
 29. This
-Strict Mode
+30. Strict Mode
 Immediately-Invoked Function Expressions (IFFE’s)
 Math Operators
 The Math Object
