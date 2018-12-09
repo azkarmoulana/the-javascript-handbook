@@ -41,7 +41,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 28. Timers
 29. This
 30. Strict Mode
-Immediately-Invoked Function Expressions (IFFE’s)
+31. Immediately-Invoked Function Expressions (IFFE’s)
 Math Operators
 The Math Object
 ES modules
