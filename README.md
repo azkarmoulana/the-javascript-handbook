@@ -43,7 +43,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 30. Strict Mode
 31. Immediately-Invoked Function Expressions (IFFE’s)
 32. Math Operators
-The Math Object
+33. The Math Object
 ES modules
 CommonJS
 Glossary
