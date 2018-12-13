@@ -44,7 +44,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 31. Immediately-Invoked Function Expressions (IFFE’s)
 32. Math Operators
 33. The Math Object
-ES modules
+34. ES modules
 CommonJS
 Glossary
 Introduction
