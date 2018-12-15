@@ -46,7 +46,7 @@ Note: you can get a PDF, ePub, or Mobi version of this handbook for easier refer
 33. The Math Object
 34. ES modules
 35. CommonJS
-Glossary
+36. Glossary
 Introduction
 JavaScript is one of the most popular programming languages in the world. Created 20 years ago, it’s gone a very long way since its humble beginnings.
 
