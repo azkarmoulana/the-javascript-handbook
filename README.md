@@ -6,7 +6,7 @@ JavaScript is one of the most popular programming languages in the world, and is
 
 The JavaScript Handbook follows the 80/20 rule: learn 80% of JavaScript in 20% of the time.
 
-Learn all you need to know about JavaScript!
+**Learn all you need to know about JavaScript!**
 
 Note: you can get a PDF, ePub, or Mobi version of this handbook for easier reference, or for reading on your Kindle or tablet.
 
