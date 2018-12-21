@@ -68,8 +68,9 @@ JavaScript is a programming language that is:
 
 **High level:**   It provides abstractions that allow you to ignore the details of the machine where it’s running. It manages memory automatically with a garbage collector, so you can focus on the code instead of managing memory locations, and provides many constructs which allow you to deal with highly powerful variables and objects.  
 
-**Dynamic:**   As opposed to static programming languages, a dynamic language executes at runtime many of the things that a static language does at compile time. This has pros and cons, and it gives us powerful features like dynamic typing, late binding, reflection, functional programming, object runtime alteration, closures and much more.
-Dynamically typed: A variable does not enforce a type. You can reassign any type to a variable, for example assigning an integer to a variable that holds a string.
+**Dynamic:**   As opposed to static programming languages, a dynamic language executes at runtime many of the things that a static language does at compile time. This has pros and cons, and it gives us powerful features like dynamic typing, late binding, reflection, functional programming, object runtime alteration, closures and much more.  
+
+**Dynamically typed:** A variable does not enforce a type. You can reassign any type to a variable, for example assigning an integer to a variable that holds a string.
 Weakly typed: As opposed to strong typing, weakly (or loosely) typed languages do not enforce the type of an object. This allows more flexibility but denies us type safety and type checking (something that TypeScript and Flow aim to improve)
 Interpreted: It’s commonly known as an interpreted language, which means that it does not need a compilation stage before a program can run, as opposed to C, Java or Go for example. In practice, browsers do compile JavaScript before executing it, for performance reasons, but this is transparent to you as there is no additional step involved.
 Multi-paradigm: The language does not enforce any particular programming paradigm, unlike Java for example which forces the use of object-oriented programming, or C that forces imperative programming.
