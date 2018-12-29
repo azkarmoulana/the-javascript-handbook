@@ -81,6 +81,7 @@ You can write JavaScript using an object-oriented paradigm, using prototypes and
 In case you’re wondering, JavaScript has nothing to do with Java, it’s an unfortunate name choice but we have to live with it.
 
 
+
 JavaScript versions
 Let me introduce the term ECMAScript here. We have a complete guide dedicated to ECMAScript where you can dive into it more, but to start with, you just need to know that ECMAScript (also called ES) is the name of the JavaScript standard.
 
