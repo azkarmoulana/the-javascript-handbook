@@ -91,7 +91,7 @@ Since then, the ones in charge decided to release one version per year, to avoid
 
 Currently, the latest approved JavaScript version is ES2017.
 
-ECMASCRIPT
+**ECMASCRIPT**
 Whenever you read about JavaScript you’ll inevitably see one of these terms:
 
 ES3
