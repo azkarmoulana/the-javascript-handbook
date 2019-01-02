@@ -94,8 +94,8 @@ Currently, the latest approved JavaScript version is ES2017.
 **ECMASCRIPT**
 Whenever you read about JavaScript you’ll inevitably see one of these terms:
 
-ES3
-ES5
+ES3  
+ES5  
 ES6
 ES7
 ES8
