@@ -96,7 +96,7 @@ Whenever you read about JavaScript you’ll inevitably see one of these terms:
 
 ES3  
 ES5  
-ES6
+ES6  
 ES7
 ES8
 ES2015
