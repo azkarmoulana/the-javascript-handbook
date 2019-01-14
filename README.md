@@ -102,7 +102,7 @@ ES8
 ES2015  
 ES2016  
 ES2017  
-ECMAScript 2017
+ECMAScript 2017  
 ECMAScript 2016
 ECMAScript 2015
 What do they mean?
